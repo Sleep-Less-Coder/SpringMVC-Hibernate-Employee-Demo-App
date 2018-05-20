@@ -1,0 +1,32 @@
+body {
+	font-family: "Helvetica", sans-serif;
+}
+.main-container {
+	padding-top: 20px;
+}
+
+.title {
+	text-align: center;
+	background-color: #007F00;
+	color: #fff;
+	padding: 80px 0 80px 0;
+	font-weight: 100;
+}
+
+.links {
+	color: #5ca5cc;
+}
+
+.add-employee-from {
+	max-width: 450px;
+}
+
+.home-link {
+	font-size: 12px;
+	color: #5ca5cc;
+	display: inline-block;
+	margin: 10px 0 10px 0;
+	border: 1px solid #ccc;
+	padding: 8px 14px;
+	border-radius: 4px;
+}
